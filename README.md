@@ -4,6 +4,7 @@ To-Do List App is an app where you can list all your activities which you planne
 Once you have completed that activity, you can check the box corresponding to that activity to delete that activity from your To-Do List.
 
 Copy and Paste the below link to redirect to my To-Do List website.
+
 https://fierce-hamlet-14852.herokuapp.com/
 
 Is that all? Of course not! 
