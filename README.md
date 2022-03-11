@@ -10,4 +10,4 @@ Is that all? Of course not!
 There are Custom Lists too!!!!!
 
 You can create your own Custom-List by adding the name of your own custom list at the end of the above link.
-If you want to create a custom list named ABC, then add ABC at the end of https://fierce-hamlet-14852.herokuapp.com/ to get https://fierce-hamlet-14852.herokuapp.com/ABC
+If you want to create a custom list named ABC(of course you can name it anything of your choice), then add ABC at the end of https://fierce-hamlet-14852.herokuapp.com/ to get https://fierce-hamlet-14852.herokuapp.com/ABC
